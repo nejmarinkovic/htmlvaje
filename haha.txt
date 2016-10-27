@@ -1,0 +1,42 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Povezava lokalnega omre§ja:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 193.2.252.234
+   Subnet Mask . . . . . . . . . . . : 255.255.255.128
+   Default Gateway . . . . . . . . . : 193.2.252.130
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::85e2:f768:67be:20d%14
+   IPv4 Address. . . . . . . . . . . : 192.168.245.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::d953:6798:8adf:e66%16
+   IPv4 Address. . . . . . . . . . . : 192.168.125.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Tunnel adapter isatap.{0E5B4C74-EE25-4D61-8C59-740B3BC5DCEE}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter 6TO4 Adapter:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2002:c102:fcea::c102:fcea
+   Default Gateway . . . . . . . . . : 
+
+Tunnel adapter isatap.localdomain:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
